@@ -105,5 +105,4 @@ include ('./partials/modal.php');
 </div>
 
 
-
 <?php include('./partials/footer.php') ?>
